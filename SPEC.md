@@ -14,4 +14,4 @@ ADDITIONAL POINTS:
 2. 🚫 Following standard go project layout is a plus.
 3. ✅ Websocket API for the service is a plus.
 4. [WIP] Using docker to build and run the service is a plus.
-5. Nicely written README with clear instructions is a plus
+5. ✅ Nicely written README with clear instructions is a plus
