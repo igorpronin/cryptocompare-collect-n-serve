@@ -11,7 +11,7 @@ Data and currencies are configurable. If cryptocompare.com is not available for 
 1. `npm i`
 2. Set initial settings in `.env`, use `.env.example` as an example.
 3. Create database `node scripts/create_database.js`, also available drop database script `node scripts/delete_database.js`
-4. Configure currency pairs and other settings at `configs/base`, or use defaults, more [here](#Configuration).
+4. Configure currency pairs and other settings at `configs/base.ts`, or use defaults, more [here](#Configuration).
 5. Build `npm run build`
 6. Run `npm start`
 7. Profit!
